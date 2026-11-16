@@ -1,0 +1,11 @@
+[
+  {
+    "section": "mods",
+    "title": "Mod de ejemplo (bórralo)",
+    "ver": "v1.0 · GTA SA 2.10 ARM64",
+    "desc": "Descripción de tu mod. Reemplaza este ejemplo con tus mods reales.",
+    "img": "img/ejemplo.jpg",
+    "gif": "img/ejemplo.gif",
+    "link": "https://modsfire.com/"
+  }
+]
